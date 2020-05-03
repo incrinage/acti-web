@@ -1,0 +1,27 @@
+{
+  "name": "acti-web",
+  "version": "1.0.0",
+  "description": "acti stat tracker",
+  "main": "index.js",
+  "scripts": {
+    "test": "test",
+    "dev": "parcel ./src/index.html",
+    "build": "parcel build ./src/index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/incrinage/acti-web.git"
+  },
+  "keywords": [
+    "acti"
+  ],
+  "author": "Jossell Berrios",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/incrinage/acti-web/issues"
+  },
+  "homepage": "https://github.com/incrinage/acti-web#readme",
+  "devDependencies": {
+    "parcel-bundler": "^1.12.4"
+  }
+}
